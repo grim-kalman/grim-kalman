@@ -1,6 +1,6 @@
 # Under construction!
-
 <div align="center">
+  
   <pre>
   8 . . . . . . . .
   7 . . . . . . . .
@@ -12,4 +12,12 @@
   1 . . . . . . . .
     a b c d e f g h
   </pre>
+</div>
+<div align="center">
+  
+  | From \ To | a1                | a2                | a3                |
+  |-----------|-------------------|-------------------|-------------------|
+  | a1        | -                 | [a1 to a2](#)     | [a1 to a3](#)     |
+  | a2        | [a2 to a1](#)     | -                 | [a2 to a3](#)     |
+  | a3        | [a3 to a1](#)     | [a3 to a2](#)     | -                 |
 </div>

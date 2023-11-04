@@ -1,9 +1,6 @@
 Under construction!
-<div align="center">
-  ![Chessboard](chessboard.svg "Chessboard with Unicode Pieces")
-</div>
 
-
+![Image](chessboard.svg)
 
 Available Moves
 <div align="center">

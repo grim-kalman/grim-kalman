@@ -1,6 +1,6 @@
 Under construction!
 
-![Image](chessboard.svg)
+<img src="chessboard.svg">
 
 Available Moves
 <div align="center">

@@ -1,6 +1,6 @@
 Under construction!
 
-<img src="chessboard.svg">
+<img src="[chessboard.svg](https://raw.githubusercontent.com/grim-kalman/grim-kalman/main/chessboard.svg)">
 
 Available Moves
 <div align="center">

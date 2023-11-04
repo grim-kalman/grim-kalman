@@ -1,7 +1,6 @@
 Under construction!
 <div align="center">
-  ![Alt text](./chessboard.svg)
-  <img src="./chessboard.svg">
+  ![Chessboard](chessboard.svg "Chessboard with Unicode Pieces")
 </div>
 
 

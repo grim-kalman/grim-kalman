@@ -1,5 +1,6 @@
 Under construction!
 <div align="center">
+  
   ![chessboard.svg](https://raw.githubusercontent.com/grim-kalman/grim-kalman/main/chessboard.svg)
 </div>
 

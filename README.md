@@ -1,10 +1,7 @@
 <div align="center">
-  Under construction!
-
   <img src="/chessboard.svg" width=400px>
   
-  Available Moves
-  
+  Under Construction
   <table>
     <tr>
       <th></th>

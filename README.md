@@ -2,7 +2,7 @@
   Under construction!
 
   <img src="/chessboard.svg">
-  3
+  
   Available Moves
   
   <table>

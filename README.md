@@ -1,7 +1,7 @@
 <div align="center">
   Under construction!
 
-  <img src="/chessboard.svg">
+  <img src="/chessboard.svg" width=400px>
   
   Available Moves
   

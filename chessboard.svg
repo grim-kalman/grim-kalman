@@ -98,7 +98,7 @@
   <rect x="280" y="320" width="40" height="40" fill="#B58863"/>
   <rect x="320" y="320" width="40" height="40" fill="#D8AF87"/>
   <!-- Chess Pieces -->
-  <text x="60" y="60" font-size="35" fill="black" dominant-baseline="middle" text-anchor="middle">&#9820;</text>
+  <text x="60" y="60" font-size="40" fill="black" dominant-baseline="middle" text-anchor="middle">&#9820;</text>
   <text x="100" y="60" font-size="35" fill="black" dominant-baseline="middle" text-anchor="middle">&#9822;</text>
   <text x="140" y="60" font-size="35" fill="black" dominant-baseline="middle" text-anchor="middle">&#9821;</text>
   <text x="180" y="60" font-size="35" fill="black" dominant-baseline="middle" text-anchor="middle">&#9819;</text>

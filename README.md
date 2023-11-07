@@ -2,7 +2,7 @@
   
   <img src="/chessboard.svg" width=400px>
   
-  Under Construction
+  🚧 Under construction 🚧
   <table>
     <tr>
       <th></th>

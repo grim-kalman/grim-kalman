@@ -90,7 +90,7 @@
     </tr>
     <tr>
       <td>2</td>
-      <td><a href="#">a3</a> <a href="#">a4</a></td>
+      <td><a href="#"><img src="/chessboard.svg" width=100px></a> <a href="google.com"><img src="/chessboard.svg" width=100px></a></td>
       <td><a href="#">b3</a> <a href="#">b4</a></td>
       <td><a href="#">c3</a> <a href="#">c4</a></td>
       <td><a href="#">d3</a> <a href="#">d4</a></td>

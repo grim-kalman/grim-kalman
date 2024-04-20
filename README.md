@@ -10,7 +10,7 @@ Testing a few things out...
 | 7 | p | `p` | p | p | p | p | p | p |
 | 6 |   |   | `.` |   |   |   |   |   |
 | 5 |   |   |   | `.` |   |   |   |   |
-| 4 | ![alt text](/chessboard.svg) |   |   |   | `.` |   |   |   |
+| 4 |  |   |   |   | `.` |   |   |   |
 | 3 |  |   |   |   |   | `.` | p |   |
 | 2 | P | P | P | P | P | P | B | P |
 | 1 | R | N | B | Q | K |   | N | R |

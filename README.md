@@ -1,28 +1,16 @@
-<!DOCTYPE html>
-<html>
-<body>
+# Hello, I'm Grim!
 
-<h1>Hello, I'm Grim!</h1>
+Testing a few things out... 
 
-<p>Testing a few things out...</p>
+# Chess Board
 
-<h1>Chess Board</h1>
-
-<!-- Your chess board here -->
-
-<p>Enter your move:</p>
-<input type="text" id="move" name="move">
-<button onclick="createLink()">Submit</button>
-
-<p id="link"></p>
-
-<script>
-function createLink() {
-  var move = document.getElementById("move").value;
-  var link = "http://localhost:8080/api/chess/play?move=" + move;
-  document.getElementById("link").innerHTML = '<a href="' + link + '">Make a move</a>';
-}
-</script>
-
-</body>
-</html>
+|   | a | b | c | d | e | f | g | h |
+|---|---|---|---|---|---|---|---|---|
+| 8 | r | n | b | q | k | b | n | r |
+| 7 | p | `p` | p | p | p | p | p | p |
+| 6 |   |   | . |   |   |   |   |   |
+| 5 |   |   |   | . |   |   |   |   |
+| 4 |   |   |   |   | . |   |   |   |
+| 3 |   |   |   |   |   | . | p |   |
+| 2 | P | P | P | P | P | P | B | P |
+| 1 | R | N | B | Q | K |   | N | R |

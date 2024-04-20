@@ -1,41 +1,28 @@
-# Hello, I'm Grim!
+<!DOCTYPE html>
+<html>
+<body>
 
-Testing a few things out... 
+<h1>Hello, I'm Grim!</h1>
 
-<svg viewBox="0 0 128 128">
-<path fill="#5D8215" d="M2 38.5l49.2-28.4 49.1 28.4-49.1 28.5z"></path>
-<path fill="#306314" d="M101.2 38.5v57l-49.1 28.5v-57z"></path>
-<path fill="#8CC63E" d="M101.2 38.5l-49.2-28.4v57z"></path>
-<path fill="#5D8215" d="M52.1 10.1v57l49.1-28.4z"></path>
-</svg>
+<p>Testing a few things out...</p>
 
-# Chess Board
+<h1>Chess Board</h1>
 
-|   | a | b | c | d | e | f | g | h |
-|---|---|---|---|---|---|---|---|---|
-| 8 | r | n | b | q | k | b | n | r |
-| 7 | p | X | p | p | p | p | p | p |
-| 6 |   |   | . |   |   |   |   |   |
-| 5 |   |   |   | . |   |   |   |   |
-| 4 |   |   |   |   | . |   |   |   |
-| 3 |   |   |   |   |   | . | p |   |
-| 2 | P | P | P | P | P | P | B | P |
-| 1 | R | N | B | Q | K |   | N | R |
+<!-- Your chess board here -->
 
-8 | r  n  b  q  k  b  n  r  
+<p>Enter your move:</p>
+<input type="text" id="move" name="move">
+<button onclick="createLink()">Submit</button>
 
-7 | p  p  p  p  p  p  p  p  
+<p id="link"></p>
 
-6 | .  .  .  .  .  .  .  .  
+<script>
+function createLink() {
+  var move = document.getElementById("move").value;
+  var link = "http://localhost:8080/api/chess/play?move=" + move;
+  document.getElementById("link").innerHTML = '<a href="' + link + '">Make a move</a>';
+}
+</script>
 
-5 | .  .  .  .  .  .  .  .  
-
-4 | .  .  .  .  .  .  .  .  
-
-3 | .  .  .  .  .  .  .  .  
-
-2 | P  P  P  P  P  P  P  P  
-
-1 | R  N  B  Q  K  B  N  R  
-
-    a  b  c  d  e  f  g  h  
+</body>
+</html>

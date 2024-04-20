@@ -13,12 +13,11 @@ Testing a few things out...
 
 |   | a | b | c | d | e | f | g | h |
 |---|---|---|---|---|---|---|---|---|
-| 8 | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
-| 7 | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ |
+| 8 | <font color="black">♜</font> | <font color="black">♞</font> | <font color="black">♝</font> | <font color="black">♛</font> | <font color="black">♚</font> | <font color="black">♝</font> | <font color="black">♞</font> | <font color="black">♜</font> |
+| 7 | <font color="black">♟</font> | <font color="black">♟</font> | <font color="black">♟</font> | <font color="black">♟</font> | <font color="black">♟</font> | <font color="black">♟</font> | <font color="black">♟</font> | <font color="black">♟</font> |
 | 6 |   |   |   |   |   |   |   |   |
 | 5 |   |   |   |   |   |   |   |   |
 | 4 |   |   |   |   |   |   |   |   |
 | 3 |   |   |   |   |   |   |   |   |
-| 2 | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
-| 1 | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
-
+| 2 | <font color="white">♙</font> | <font color="white">♙</font> | <font color="white">♙</font> | <font color="white">♙</font> | <font color="white">♙</font> | <font color="white">♙</font> | <font color="white">♙</font> | <font color="white">♙</font> |
+| 1 | <font color="white">♖</font> | <font color="white">♘</font> | <font color="white">♗</font> | <font color="white">♕</font> | <font color="white">♔</font> | <font color="white">♗</font> | <font color="white">♘</font> | <font color="white">♖</font> |

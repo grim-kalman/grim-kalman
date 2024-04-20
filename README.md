@@ -11,6 +11,6 @@ Testing a few things out...
 | 6 |   |   | `.` |   |   |   |   |   |
 | 5 |   |   |   | `.` |   |   |   |   |
 | 4 |   |   |   |   | `.` |   |   |   |
-| 3 |   |   |   |   |   | `.` | p |   |
+| 3 | ![alt text](/chessboard.svg) |   |   |   |   | `.` | p |   |
 | 2 | P | P | P | P | P | P | B | P |
 | 1 | R | N | B | Q | K |   | N | R |

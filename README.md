@@ -8,3 +8,16 @@ Testing a few things out...
 <path fill="#8CC63E" d="M101.2 38.5l-49.2-28.4v57z"></path>
 <path fill="#5D8215" d="M52.1 10.1v57l49.1-28.4z"></path>
 </svg>
+
+# Chess Board
+
+|   | a | b | c | d | e | f | g | h |
+|---|---|---|---|---|---|---|---|---|
+| 8 | r | n | b | q | k | b | n | r |
+| 7 | p | p | p | p | p | p | p | p |
+| 6 |   |   |   |   |   |   |   |   |
+| 5 |   |   |   |   |   |   |   |   |
+| 4 |   |   |   |   |   |   |   |   |
+| 3 |   |   |   |   |   |   |   |   |
+| 2 | P | P | P | P | P | P | P | P |
+| 1 | R | N | B | Q | K | B | N | R |

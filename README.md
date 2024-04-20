@@ -6,7 +6,7 @@
   <table>
     <tr>
       <th></th>
-      <th>a</th>
+      <th>s</th>
       <th>b</th>
       <th>c</th>
       <th>d</th>

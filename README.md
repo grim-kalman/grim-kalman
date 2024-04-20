@@ -21,3 +21,17 @@ Testing a few things out...
 | 3 |   |   |   |   |   |   |   |   |
 | 2 | P | P | P | P | P | P | P | P |
 | 1 | R | N | B | Q | K | B | N | R |
+
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td style="background-color: #f0d9b5;">♜</td>
+    <td style="background-color: #b58863;">♞</td>
+    <td style="background-color: #f0d9b5;">♝</td>
+    <td style="background-color: #b58863;">♛</td>
+    <td style="background-color: #f0d9b5;">♚</td>
+    <td style="background-color: #b58863;">♝</td>
+    <td style="background-color: #f0d9b5;">♞</td>
+    <td style="background-color: #b58863;">♜</td>
+  </tr>
+  <!-- Add more rows as needed -->
+</table>

@@ -22,7 +22,8 @@ Testing a few things out...
 | 2 | P | P | P | P | P | P | B | P |
 | 1 | R | N | B | Q | K |   | N | R |
 
-8 | r  n  b  q  k  b  n  r \n
+8 | r  n  b  q  k  b  n  r
+
 7 | p  p  p  p  p  p  p  p
 6 | .  .  .  .  .  .  .  .
 5 | .  .  .  .  .  .  .  .

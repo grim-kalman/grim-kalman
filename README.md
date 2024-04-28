@@ -1,6 +1,6 @@
 Evaluation:
 
-??????????????? -0.04
+????????? -1.84
 
 |     |  a  |  b  |  c  |  d  |  e  |  f  |  g  |  h  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -8,7 +8,7 @@ Evaluation:
 |  7  |  _p_  |  _p_  |     |  _p_  |     |  _p_  |  _p_  |     |
 |  6  |     |     |  _n_  |     |     |     |     |  _p_  |
 |  5  |     |     |  _b_  |     |  _p_  |     |     |     |
-|  4  |     |     |     |     |  **P**  |     |  _n_  |     |
+|  4  |     |     |     |     |  **P**  |     |     |     |
 |  3  |     |     |  [**N**](http://localhost:8080/api/chess/select?square=c3)  |  [**B**](http://localhost:8080/api/chess/select?square=d3)  |     |  [**N**](http://localhost:8080/api/chess/select?square=f3)  |     |     |
-|  2  |  [**P**](http://localhost:8080/api/chess/select?square=a2)  |  [**P**](http://localhost:8080/api/chess/select?square=b2)  |  **P**  |  [_](http://localhost:8080/api/chess/play?move=d1d2)  |  [_](http://localhost:8080/api/chess/play?move=d1e2)  |  **P**  |  [**P**](http://localhost:8080/api/chess/select?square=g2)  |  [**P**](http://localhost:8080/api/chess/select?square=h2)  |
-|  1  |  [**R**](http://localhost:8080/api/chess/select?square=a1)  |     |  [**B**](http://localhost:8080/api/chess/select?square=c1)  |  [**Q**](http://localhost:8080/api/chess/select?square=d1)  |  [_](http://localhost:8080/api/chess/play?move=d1e1)  |  [_](http://localhost:8080/api/chess/play?move=d1f1)  |  [**K**](http://localhost:8080/api/chess/select?square=g1)  |  **R**  |
+|  2  |  [**P**](http://localhost:8080/api/chess/select?square=a2)  |  [**P**](http://localhost:8080/api/chess/select?square=b2)  |  **P**  |     |  [**Q**](http://localhost:8080/api/chess/select?square=e2)  |  _n_  |  [**P**](http://localhost:8080/api/chess/select?square=g2)  |  [**P**](http://localhost:8080/api/chess/select?square=h2)  |
+|  1  |  [**R**](http://localhost:8080/api/chess/select?square=a1)  |     |  [**B**](http://localhost:8080/api/chess/select?square=c1)  |     |     |     |  [**K**](http://localhost:8080/api/chess/select?square=g1)  |  **R**  |

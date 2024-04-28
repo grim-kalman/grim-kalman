@@ -1,20 +1,18 @@
 # Hello, I'm Grim!
 
-Testing a few things out...
+Let's play a little game of chess
 
-# Chess Board
+Evaluation: 
 
-Game Evaluation:
-
-█████████████████████████████▌ +5
+█ -4.44
 
 |     |  a  |  b  |  c  |  d  |  e  |  f  |  g  |  h  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  8  |  r  |  n  |  b  |  q  |  k  |  b  |  n  |  r  |
-|  7  |  p  |  p  |  p  |  p  |  p  |  p  |  p  |  p  |
-|  6  |     |     |     |     |     |     |     |     |
-|  5  |     |     |     |     |     |     |     |     |
-|  4  |     |     |     |     |     |     |     |     |
+|  8  |  _r_  |     |  _b_  |  _q_  |     |  _k_  |  _n_  |  _r_  |
+|  7  |  _p_  |  _p_  |     |  _p_  |     |  _p_  |  _p_  |  _p_  |
+|  6  |     |     |  _n_  |     |     |     |     |     |
+|  5  |     |     |     |     |  _p_  |     |     |     |
+|  4  |     |     |     |     |  **P**  |     |     |     |
 |  3  |     |     |     |     |     |     |     |     |
-|  2  |  P  |  P  |  P  |  P  |  P  |  P  |  P  |  P  |
-|  1  |  R  |  N  |  B  |  Q  |  K  |  B  |  N  |  R  |
+|  2  |  [**P**](http://localhost:8080/api/chess/select?square=a2)  |  [**P**](http://localhost:8080/api/chess/select?square=b2)  |  [**P**](http://localhost:8080/api/chess/select?square=c2)  |  [**P**](http://localhost:8080/api/chess/select?square=d2)  |     |  [**P**](http://localhost:8080/api/chess/select?square=f2)  |  [**P**](http://localhost:8080/api/chess/select?square=g2)  |  [**P**](http://localhost:8080/api/chess/select?square=h2)  |
+|  1  |  **R**  |  [**N**](http://localhost:8080/api/chess/select?square=b1)  |  **B**  |     |  [**K**](http://localhost:8080/api/chess/select?square=e1)  |  [**B**](http://localhost:8080/api/chess/select?square=f1)  |  [**N**](http://localhost:8080/api/chess/select?square=g1)  |  **R**  |

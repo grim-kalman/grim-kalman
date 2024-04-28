@@ -4,6 +4,10 @@ Testing a few things out...
 
 # Chess Board
 
+Game Evaluation:
+
+█████████████████████████████▌ +5
+
 |     |  a  |  b  |  c  |  d  |  e  |  f  |  g  |  h  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  8  |  r  |  n  |  b  |  q  |  k  |  b  |  n  |  r  |

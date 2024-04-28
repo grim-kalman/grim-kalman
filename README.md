@@ -10,5 +10,5 @@ Evaluation:
 |  5  |     |     |     |     |  _p_  |     |     |     |
 |  4  |     |     |     |     |  **P**  |     |     |     |
 |  3  |     |     |  **N**  |  **B**  |     |  **N**  |     |     |
-|  2  |  **P**  |  **P**  |  **P**  |     |     |  _b_  |  **P**  |  **P**  |
-|  1  |  **R**  |     |     |     |     |     |  [**K**](http://localhost:8080/api/chess/select?square=g1)  |  **R**  |
+|  2  |  **P**  |  **P**  |  **P**  |     |     |  [_b_](http://localhost:8080/api/chess/play?move=g1f2)  |  **P**  |  **P**  |
+|  1  |  **R**  |     |     |     |     |  [_](http://localhost:8080/api/chess/play?move=g1f1)  |  [**K**](http://localhost:8080/api/chess/select?square=g1)  |  **R**  |

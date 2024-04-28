@@ -1,7 +1,3 @@
-# Hello, I'm Grim!
-
-Let's play a little game of chess
-
 Evaluation: 
 
 █ -4.44

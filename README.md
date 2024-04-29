@@ -9,6 +9,6 @@ Evaluation: +0.24
 |  6  |     |     |     |     |     |     |     |     |
 |  5  |     |     |  _p_  |     |     |     |     |     |
 |  4  |     |     |     |     |  [**P**](http://localhost:8080/api/chess/select?square=e4)  |     |     |     |
-|  3  |     |     |     |     |     |     |     |     |
+|  3  |  [_](http://localhost:8080/api/chess/play?move=b1a3)  |     |  [_](http://localhost:8080/api/chess/play?move=b1c3)  |     |     |     |     |     |
 |  2  |  [**P**](http://localhost:8080/api/chess/select?square=a2)  |  [**P**](http://localhost:8080/api/chess/select?square=b2)  |  [**P**](http://localhost:8080/api/chess/select?square=c2)  |  [**P**](http://localhost:8080/api/chess/select?square=d2)  |     |  [**P**](http://localhost:8080/api/chess/select?square=f2)  |  [**P**](http://localhost:8080/api/chess/select?square=g2)  |  [**P**](http://localhost:8080/api/chess/select?square=h2)  |
 |  1  |  **R**  |  [**N**](http://localhost:8080/api/chess/select?square=b1)  |  **B**  |  [**Q**](http://localhost:8080/api/chess/select?square=d1)  |  [**K**](http://localhost:8080/api/chess/select?square=e1)  |  [**B**](http://localhost:8080/api/chess/select?square=f1)  |  [**N**](http://localhost:8080/api/chess/select?square=g1)  |  **R**  |

@@ -11,5 +11,5 @@
 |  **5**  |     |     |     |     |     |     |     |  _n_  |
 |  **4**  |  [**P**](http://localhost:8080/api/chess/select?square=a4)  |     |     |  _p_  |  [**P**](http://localhost:8080/api/chess/select?square=e4)  |     |     |     |
 |  **3**  |     |  [**P**](http://localhost:8080/api/chess/select?square=b3)  |  [**P**](http://localhost:8080/api/chess/select?square=c3)  |     |     |     |     |     |
-|  **2**  |     |     |     |  [**P**](http://localhost:8080/api/chess/select?square=d2)  |     |  [**P**](http://localhost:8080/api/chess/select?square=f2)  |  [**P**](http://localhost:8080/api/chess/select?square=g2)  |  [**P**](http://localhost:8080/api/chess/select?square=h2)  |
-|  **1**  |     |  _p_  |     |     |  [**K**](http://localhost:8080/api/chess/select?square=e1)  |     |     |  [**R**](http://localhost:8080/api/chess/select?square=h1)  |
+|  **2**  |     |     |     |  [**P**](http://localhost:8080/api/chess/select?square=d2)  |  [_](http://localhost:8080/api/chess/play?move=e1e2)  |  [**P**](http://localhost:8080/api/chess/select?square=f2)  |  [**P**](http://localhost:8080/api/chess/select?square=g2)  |  [**P**](http://localhost:8080/api/chess/select?square=h2)  |
+|  **1**  |     |  _p_  |     |  [_](http://localhost:8080/api/chess/play?move=e1d1)  |  [**K**](http://localhost:8080/api/chess/select?square=e1)  |  [_](http://localhost:8080/api/chess/play?move=e1f1)  |     |  [**R**](http://localhost:8080/api/chess/select?square=h1)  |

@@ -1,4 +1,11 @@
-Evaluation: -14.1
+# Readme Chess
+
+Welcome to the interactive chess game on GitHub! You can play moves directly from this README by clicking on the pieces.
+
+## Current Board and Game Status
+
+**Evaluation: -14.1** | **Game Outcome: Ongoing**
+
 |     |  a  |  b  |  c  |  d  |  e  |  f  |  g  |  h  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  **8**  |  _r_  |  _n_  |  _b_  |     |  _k_  |  _b_  |     |  _r_  |

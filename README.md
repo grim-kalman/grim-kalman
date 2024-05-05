@@ -1,6 +1,7 @@
 # Readme Chess
-Evaluation: +0.24
-Game Status: In Progress
+
+**Evaluation:** +0.24
+**Game Status:** In Progress
 |     |  a  |  b  |  c  |  d  |  e  |  f  |  g  |  h  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  **8**  |  _r_  |  _n_  |  _b_  |  _q_  |  _k_  |  _b_  |  _n_  |  _r_  |

@@ -5,10 +5,10 @@
 |  **7**  |  _p_  |  _b_  |     |  _p_  |  _p_  |  _p_  |  _p_  |  _p_  |
 |  **6**  |     |  _p_  |     |     |     |     |     |     |
 |  **5**  |     |     |  _p_  |     |     |     |     |     |
-|  **4**  |  [**Q**](http://localhost:8080/api/chess/select?square=a4)  |     |  [**P**](https://github.com/grim-kalman)  |     |  _n_  |     |     |     |
-|  **3**  |     |     |     |     |     |     |  [**P**](http://localhost:8080/api/chess/select?square=g3)  |  [_](http://localhost:8080/api/chess/play?move=f1h3)  |
-|  **2**  |  [**P**](http://localhost:8080/api/chess/select?square=a2)  |  [**P**](http://localhost:8080/api/chess/select?square=b2)  |     |  [**P**](http://localhost:8080/api/chess/select?square=d2)  |  [**K**](http://localhost:8080/api/chess/select?square=e2)  |  [**P**](http://localhost:8080/api/chess/select?square=f2)  |  [_](http://localhost:8080/api/chess/play?move=f1g2)  |  [**P**](http://localhost:8080/api/chess/select?square=h2)  |
-|  **1**  |  [**R**](https://github.com/grim-kalman)  |  [**N**](http://localhost:8080/api/chess/select?square=b1)  |  [**B**](https://github.com/grim-kalman)  |     |     |  [**B**](http://localhost:8080/api/chess/select?square=f1)  |  [**N**](http://localhost:8080/api/chess/select?square=g1)  |  [**R**](https://github.com/grim-kalman)  |
+|  **4**  |  [**Q**](https://github.com/grim-kalman)  |     |  [**P**](https://github.com/grim-kalman)  |     |     |     |     |     |
+|  **3**  |     |     |  _n_  |     |     |     |  [**P**](https://github.com/grim-kalman)  |     |
+|  **2**  |  [**P**](https://github.com/grim-kalman)  |  [**P**](http://localhost:8080/api/chess/select?square=b2)  |     |  [**P**](http://localhost:8080/api/chess/select?square=d2)  |  [**K**](http://localhost:8080/api/chess/select?square=e2)  |  [**P**](https://github.com/grim-kalman)  |  [**B**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |
+|  **1**  |  [**R**](https://github.com/grim-kalman)  |  [**N**](http://localhost:8080/api/chess/select?square=b1)  |  [**B**](https://github.com/grim-kalman)  |     |     |     |  [**N**](https://github.com/grim-kalman)  |  [**R**](https://github.com/grim-kalman)  |
 > $\texttt{\color{ForestGreen}grime@E3HQZQU}$ : $\color{NavyBlue}\textasciitilde$ $
 >
-> $\texttt{\color{Orchid}2024-05-06 20:57:42}$ $\texttt{Match in progress. Your move...}$
+> $\texttt{\color{Orchid}2024-05-06 20:57:44}$ $\texttt{Match in progress. Your move...}$

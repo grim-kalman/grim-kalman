@@ -6,7 +6,7 @@
 |  **8**  |  _r_  |     |  _b_  |  _q_  |  _k_  |  _b_  |     |  _r_  |
 |  **7**  |  _p_  |  _p_  |     |     |     |  _p_  |  _p_  |  _p_  |
 |  **6**  |  [**B**](https://github.com/grim-kalman)  |     |  _n_  |     |     |     |     |     |
-|  **5**  |     |     |  _p_  |  _p_  |  _p_  |     |  [**K**](http://localhost:8080/api/chess/select?square=g5)  |     |
+|  **5**  |     |     |  _p_  |  _p_  |  _p_  |     |  [**K**](http://localhost:8080/api/chess/select?square=g5)  |  [_](http://localhost:8080/api/chess/play?move=g5h5)  |
 |  **4**  |     |     |     |     |  _n_  |     |     |     |
 |  **3**  |     |     |     |     |     |     |     |     |
 |  **2**  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |     |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |

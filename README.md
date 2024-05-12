@@ -2,7 +2,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  **8**  |  _r_  |     |  _b_  |  _q_  |     |  _r_  |  _k_  |     |
 |  **7**  |     |  _p_  |  _p_  |     |  _b_  |  _p_  |  _p_  |  _p_  |
-|  **6**  |     |     |     |  _p_  |     |  _n_  |     |     |
+|  **6**  |     |  [_](http://localhost:8080/api/chess/play?move=b5b6)  |     |  _p_  |     |  _n_  |     |     |
 |  **5**  |  _p_  |  [**P**](http://localhost:8080/api/chess/select?square=b5)  |     |     |     |     |     |     |
 |  **4**  |     |     |  [**B**](http://localhost:8080/api/chess/select?square=c4)  |  [**Q**](http://localhost:8080/api/chess/select?square=d4)  |  [**P**](http://localhost:8080/api/chess/select?square=e4)  |     |     |     |
 |  **3**  |     |     |     |     |     |     |     |     |

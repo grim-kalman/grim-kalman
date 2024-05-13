@@ -1,7 +1,7 @@
 |     |  a  |  b  |  c  |  d  |  e  |  f  |  g  |  h  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  **8**  |  _r_  |     |     |  _k_  |     |     |     |     |
-|  **7**  |     |  _p_  |     |     |     |  [**B**](http://localhost:8080/api/chess/select?square=f7)  |  _p_  |     |
+|  **7**  |     |  [_p_](http://localhost:8080/api/chess/play?move=c6b7)  |  [_](http://localhost:8080/api/chess/play?move=c6c7)  |     |     |  [**B**](http://localhost:8080/api/chess/select?square=f7)  |  _p_  |     |
 |  **6**  |  _p_  |     |  [**P**](http://localhost:8080/api/chess/select?square=c6)  |  _b_  |     |  _p_  |     |     |
 |  **5**  |     |     |     |     |     |     |     |     |
 |  **4**  |     |     |     |     |  _p_  |     |     |     |

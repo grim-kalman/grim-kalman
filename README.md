@@ -3,7 +3,7 @@
 |  **8**  |  _r_  |     |     |  _q_  |  _k_  |     |     |  _r_  |
 |  **7**  |  _p_  |  _p_  |  _p_  |  _b_  |     |  _p_  |  _p_  |  _p_  |
 |  **6**  |     |     |     |     |     |     |     |  _n_  |
-|  **5**  |     |     |     |     |  [_p_](http://localhost:8080/api/chess/play?move=f4e5)  |  [_](http://localhost:8080/api/chess/play?move=f4f5)  |     |     |
+|  **5**  |     |     |     |     |  _p_  |     |     |     |
 |  **4**  |     |  _b_  |  _p_  |     |     |  [**P**](http://localhost:8080/api/chess/select?square=f4)  |     |     |
 |  **3**  |     |     |     |     |     |     |     |     |
 |  **2**  |     |     |     |  [**P**](https://github.com/grim-kalman)  |  [**P**](http://localhost:8080/api/chess/select?square=e2)  |     |  [**P**](http://localhost:8080/api/chess/select?square=g2)  |  [**P**](http://localhost:8080/api/chess/select?square=h2)  |

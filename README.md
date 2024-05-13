@@ -1,10 +1,10 @@
 |     |  a  |  b  |  c  |  d  |  e  |  f  |  g  |  h  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  **8**  |     |  [_r_](http://localhost:8080/api/chess/play?move=c8b8)  |  [**R**](http://localhost:8080/api/chess/select?square=c8)  |  [_](http://localhost:8080/api/chess/play?move=c8d8)  |  [_](http://localhost:8080/api/chess/play?move=c8e8)  |  [_](http://localhost:8080/api/chess/play?move=c8f8)  |  [_](http://localhost:8080/api/chess/play?move=c8g8)  |  [_](http://localhost:8080/api/chess/play?move=c8h8)  |
-|  **7**  |     |  [**P**](https://github.com/grim-kalman)  |  [_](http://localhost:8080/api/chess/play?move=c8c7)  |  _k_  |     |     |  _p_  |     |
-|  **6**  |  _p_  |     |  [_](http://localhost:8080/api/chess/play?move=c8c6)  |  _b_  |     |     |     |     |
-|  **5**  |     |     |  [_](http://localhost:8080/api/chess/play?move=c8c5)  |  [**B**](http://localhost:8080/api/chess/select?square=d5)  |     |     |  _p_  |     |
-|  **4**  |     |     |  [_](http://localhost:8080/api/chess/play?move=c8c4)  |     |  _p_  |     |  _n_  |     |
-|  **3**  |     |     |  [_](http://localhost:8080/api/chess/play?move=c8c3)  |     |     |     |     |     |
-|  **2**  |  [**P**](http://localhost:8080/api/chess/select?square=a2)  |  [**P**](http://localhost:8080/api/chess/select?square=b2)  |  [_](http://localhost:8080/api/chess/play?move=c8c2)  |     |     |  [**P**](http://localhost:8080/api/chess/select?square=f2)  |     |     |
-|  **1**  |  [**R**](https://github.com/grim-kalman)  |  [**N**](http://localhost:8080/api/chess/select?square=b1)  |  [_](http://localhost:8080/api/chess/play?move=c8c1)  |     |     |     |     |  [**K**](http://localhost:8080/api/chess/select?square=h1)  |
+|  **8**  |  _r_  |  _n_  |  _b_  |  _q_  |  _k_  |  _b_  |  _n_  |  _r_  |
+|  **7**  |  _p_  |  _p_  |  _p_  |  _p_  |  _p_  |  _p_  |  _p_  |  _p_  |
+|  **6**  |     |     |     |     |     |     |     |     |
+|  **5**  |     |     |     |     |     |     |     |     |
+|  **4**  |     |     |     |     |     |     |     |     |
+|  **3**  |     |     |     |     |     |     |     |     |
+|  **2**  |  [**P**](http://localhost:8080/api/chess/select?square=a2)  |  [**P**](http://localhost:8080/api/chess/select?square=b2)  |  [**P**](http://localhost:8080/api/chess/select?square=c2)  |  [**P**](http://localhost:8080/api/chess/select?square=d2)  |  [**P**](http://localhost:8080/api/chess/select?square=e2)  |  [**P**](http://localhost:8080/api/chess/select?square=f2)  |  [**P**](http://localhost:8080/api/chess/select?square=g2)  |  [**P**](http://localhost:8080/api/chess/select?square=h2)  |
+|  **1**  |  [**R**](https://github.com/grim-kalman)  |  [**N**](http://localhost:8080/api/chess/select?square=b1)  |  [**B**](https://github.com/grim-kalman)  |  [**Q**](https://github.com/grim-kalman)  |  [**K**](https://github.com/grim-kalman)  |  [**B**](https://github.com/grim-kalman)  |  [**N**](http://localhost:8080/api/chess/select?square=g1)  |  [**R**](https://github.com/grim-kalman)  |

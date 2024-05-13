@@ -5,6 +5,6 @@
 |  **6**  |     |     |     |     |     |     |     |     |
 |  **5**  |     |     |     |     |     |     |     |  _q_  |
 |  **4**  |     |     |     |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |  _p_  |     |     |
-|  **3**  |     |     |     |     |     |     |     |     |
+|  **3**  |     |     |     |     |     |  [_](http://localhost:8080/api/chess/play?move=g1f3)  |     |     |
 |  **2**  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |     |  [**K**](http://localhost:8080/api/chess/select?square=e2)  |     |  [**P**](http://localhost:8080/api/chess/select?square=g2)  |  [**P**](https://github.com/grim-kalman)  |
 |  **1**  |  [**R**](https://github.com/grim-kalman)  |  [**N**](https://github.com/grim-kalman)  |  [**B**](https://github.com/grim-kalman)  |  [**Q**](https://github.com/grim-kalman)  |     |  [**B**](https://github.com/grim-kalman)  |  [**N**](http://localhost:8080/api/chess/select?square=g1)  |  [**R**](https://github.com/grim-kalman)  |

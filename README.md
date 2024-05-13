@@ -7,4 +7,4 @@
 |  **4**  |     |     |     |  _q_  |     |     |  [**B**](https://github.com/grim-kalman)  |     |
 |  **3**  |     |     |     |     |     |     |     |     |
 |  **2**  |     |     |     |  [**N**](http://localhost:8080/api/chess/select?square=d2)  |     |  [**P**](https://github.com/grim-kalman)  |     |     |
-|  **1**  |     |     |     |  [**Q**](http://localhost:8080/api/chess/select?square=d1)  |  _r_  |     |  [**K**](http://localhost:8080/api/chess/select?square=g1)  |     |
+|  **1**  |     |     |     |  [**Q**](http://localhost:8080/api/chess/select?square=d1)  |  [_r_](http://localhost:8080/api/chess/play?move=d1e1)  |     |  [**K**](http://localhost:8080/api/chess/select?square=g1)  |     |

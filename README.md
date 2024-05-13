@@ -1,9 +1,9 @@
 |     |  a  |  b  |  c  |  d  |  e  |  f  |  g  |  h  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  **8**  |  _r_  |     |     |  _q_  |     |  _r_  |  _k_  |     |
-|  **7**  |  _p_  |  _p_  |  _p_  |  _b_  |     |  _p_  |  _p_  |  _p_  |
-|  **6**  |     |     |     |     |  [_](http://localhost:8080/api/chess/play?move=e5e6)  |     |     |  _n_  |
-|  **5**  |     |     |     |     |  [**P**](http://localhost:8080/api/chess/select?square=e5)  |     |     |     |
+|  **7**  |  _p_  |  _p_  |  _p_  |     |     |  _p_  |  _p_  |  _p_  |
+|  **6**  |     |     |     |     |  _b_  |     |     |  _n_  |
+|  **5**  |     |     |     |     |     |     |     |     |
 |  **4**  |     |  _b_  |  _p_  |     |     |     |     |     |
 |  **3**  |     |     |     |     |     |     |     |     |
 |  **2**  |     |     |     |  [**P**](https://github.com/grim-kalman)  |  [**P**](http://localhost:8080/api/chess/select?square=e2)  |     |  [**P**](http://localhost:8080/api/chess/select?square=g2)  |  [**P**](http://localhost:8080/api/chess/select?square=h2)  |

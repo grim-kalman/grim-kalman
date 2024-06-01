@@ -1,7 +1,7 @@
 |     |  a  |  b  |  c  |  d  |  e  |  f  |  g  |  h  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  **8**  |  _r_  |     |  _b_  |  _q_  |  _k_  |     |     |  _r_  |
-|  **7**  |  _p_  |  _p_  |     |  _p_  |     |  _p_  |  _p_  |  _p_  |
+|  **7**  |  _p_  |  _p_  |     |  _p_  |     |  _p_  |  [_p_](https://readme-chess.azurewebsites.net/play?move=f6g7)  |  _p_  |
 |  **6**  |     |     |  _n_  |     |  _p_  |  [**P**](https://readme-chess.azurewebsites.net/select?square=f6)  |     |     |
 |  **5**  |     |     |     |     |     |     |     |     |
 |  **4**  |     |  _b_  |     |     |     |     |     |     |

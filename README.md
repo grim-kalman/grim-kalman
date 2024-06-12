@@ -1,9 +1,9 @@
 |     |  a  |  b  |  c  |  d  |  e  |  f  |  g  |  h  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  **8**  |  _r_  |  _n_  |  _b_  |  _q_  |  _k_  |  _b_  |  _n_  |  _r_  |
+|  **8**  |  _r_  |  _n_  |  _b_  |  _q_  |  _k_  |  _b_  |     |  _r_  |
 |  **7**  |  _p_  |  _p_  |     |     |     |  _p_  |  _p_  |  _p_  |
-|  **6**  |     |     |     |  _p_  |  _p_  |     |     |     |
-|  **5**  |     |     |     |     |  [**P**](https://readmechess.azurewebsites.net/select?square=e5)  |     |     |     |
+|  **6**  |     |     |     |  [**P**](https://readmechess.azurewebsites.net/select?square=d6)  |  _p_  |  _n_  |     |     |
+|  **5**  |     |     |     |     |     |     |     |     |
 |  **4**  |     |     |     |  _p_  |     |     |     |     |
 |  **3**  |     |     |     |     |     |     |     |     |
 |  **2**  |  [**P**](https://readmechess.azurewebsites.net/select?square=a2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=b2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=c2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=d2)  |     |  [**P**](https://readmechess.azurewebsites.net/select?square=f2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=g2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=h2)  |

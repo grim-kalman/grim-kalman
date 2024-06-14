@@ -5,8 +5,8 @@
 |  **6**  |     |     |  _n_  |     |     |     |     |     |
 |  **5**  |     |  [**P**](https://readmechess.azurewebsites.net/select?square=b5)  |     |     |  _p_  |     |     |     |
 |  **4**  |  [**P**](https://readmechess.azurewebsites.net/select?square=a4)  |     |  [**P**](https://readmechess.azurewebsites.net/select?square=c4)  |     |     |     |     |  _b_  |
-|  **3**  |     |     |  [**K**](https://readmechess.azurewebsites.net/select?square=c3)  |     |  [**P**](https://readmechess.azurewebsites.net/select?square=e3)  |  [**P**](https://readmechess.azurewebsites.net/select?square=f3)  |     |     |
-|  **2**  |     |     |     |  [**P**](https://readmechess.azurewebsites.net/select?square=d2)  |     |  _n_  |  [**P**](https://readmechess.azurewebsites.net/select?square=g2)  |     |
+|  **3**  |     |  [_](https://readmechess.azurewebsites.net/play?move=c3b3)  |  [**K**](https://readmechess.azurewebsites.net/select?square=c3)  |     |  [**P**](https://readmechess.azurewebsites.net/select?square=e3)  |  [**P**](https://readmechess.azurewebsites.net/select?square=f3)  |     |     |
+|  **2**  |     |  [_](https://readmechess.azurewebsites.net/play?move=c3b2)  |  [_](https://readmechess.azurewebsites.net/play?move=c3c2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=d2)  |     |  _n_  |  [**P**](https://readmechess.azurewebsites.net/select?square=g2)  |     |
 |  **1**  |  [**R**](https://readmechess.azurewebsites.net/select?square=a1)  |  [**N**](https://readmechess.azurewebsites.net/select?square=b1)  |  [**B**](https://readmechess.azurewebsites.net/select?square=c1)  |  [**Q**](https://readmechess.azurewebsites.net/select?square=d1)  |     |  [**B**](https://readmechess.azurewebsites.net/select?square=f1)  |  [**N**](https://readmechess.azurewebsites.net/select?square=g1)  |     |
 
 [![New Game](https://img.shields.io/badge/new_game-4CAF50)](https://readmechess.azurewebsites.net/new)

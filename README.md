@@ -5,7 +5,7 @@
 |  **6**  |     |     |     |     |     |     |     |     |
 |  **5**  |     |     |     |     |  _p_  |     |     |     |
 |  **4**  |     |     |     |     |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |     |  _q_  |
-|  **3**  |     |  [**P**](https://github.com/grim-kalman)  |  _p_  |     |     |     |     |  [**P**](https://github.com/grim-kalman)  |
+|  **3**  |     |  [**P**](https://github.com/grim-kalman)  |  _p_  |     |     |     |  [_](https://readmechess.azurewebsites.net/play?move=g2g3)  |  [**P**](https://github.com/grim-kalman)  |
 |  **2**  |  [**P**](https://github.com/grim-kalman)  |     |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |     |     |  [**P**](https://readmechess.azurewebsites.net/select?square=g2)  |     |
 |  **1**  |  [**R**](https://github.com/grim-kalman)  |     |  [**B**](https://github.com/grim-kalman)  |  [**Q**](https://github.com/grim-kalman)  |  [**K**](https://readmechess.azurewebsites.net/select?square=e1)  |  [**B**](https://github.com/grim-kalman)  |  [**N**](https://github.com/grim-kalman)  |  [**R**](https://github.com/grim-kalman)  |
 

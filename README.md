@@ -1,3 +1,14 @@
+# Readme Chess
+
+Welcome to my GitHub profile! Here, you can play a game of chess with me, using my [readme-chess](https://github.com/grim-kalman/readme-chess) application.
+
+## How to Play
+
+- **Select a piece:** Click on any selectable piece ([**A**]()) to select it.
+- **Move the piece:** Click on any destination square ([**_**]()) to move the selected piece.
+- **Wait for the page to refresh:** After each action, please wait for the page to refresh to see the updated game state.
+
+## Chess Board
 |     |  a  |  b  |  c  |  d  |  e  |  f  |  g  |  h  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  **8**  |  _r_  |  _n_  |  _b_  |  _q_  |  _k_  |  _b_  |  _n_  |  _r_  |

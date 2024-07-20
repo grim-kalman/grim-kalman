@@ -1,10 +1,18 @@
-![Grim's GitHub Profile](<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+## Grim's GitHub Profile
+
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
   <rect width="600" height="200" fill="#f3f4f6"/>
   <text x="50%" y="20%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="24" fill="#333">
     Grim's GitHub Profile
   </text>
   <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="18" fill="#555">
     Fullstack Java Developer
+  </text>
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="16" fill="#777">
+    Skills: Java, JavaScript, HTML, CSS, Biotech Engineering
+  </text>
+  <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="16" fill="#777">
+    Interests: Science, History, Running, Video Games
   </text>
   <g transform="translate(50, 150)">
     <circle cx="10" cy="10" r="10" fill="#4CAF50"/>
@@ -26,4 +34,4 @@
     <circle cx="10" cy="10" r="10" fill="#9C27B0"/>
     <text x="30" y="15" font-family="Arial" font-size="14" fill="#333">Biotech Engineering</text>
   </g>
-</svg>)
+</svg>

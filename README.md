@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 |  **7**  |  _p_  |  _p_  |  _p_  |     |     |  _p_  |  _p_  |  _p_  |
 |  **6**  |     |     |  _n_  |     |     |     |     |     |
 |  **5**  |  _b_  |     |     |  _p_  |  _p_  |  _b_  |     |     |
-|  **4**  |     |     |  [_](https://readmechess.azurewebsites.net/play?move=c3c4)  |     |     |     |     |     |
+|  **4**  |     |     |     |     |     |     |     |     |
 |  **3**  |  [**P**](https://readmechess.azurewebsites.net/select?square=a3)  |     |  [**P**](https://readmechess.azurewebsites.net/select?square=c3)  |     |  [**P**](https://readmechess.azurewebsites.net/select?square=e3)  |     |  [**P**](https://readmechess.azurewebsites.net/select?square=g3)  |  [**N**](https://readmechess.azurewebsites.net/select?square=h3)  |
 |  **2**  |     |     |     |  [**P**](https://readmechess.azurewebsites.net/select?square=d2)  |     |  [**P**](https://readmechess.azurewebsites.net/select?square=f2)  |     |  [**P**](https://github.com/grim-kalman)  |
 |  **1**  |  [**R**](https://readmechess.azurewebsites.net/select?square=a1)  |  [**N**](https://github.com/grim-kalman)  |  [**B**](https://readmechess.azurewebsites.net/select?square=c1)  |  [**Q**](https://readmechess.azurewebsites.net/select?square=d1)  |  [**K**](https://readmechess.azurewebsites.net/select?square=e1)  |  [**B**](https://readmechess.azurewebsites.net/select?square=f1)  |     |  [**R**](https://readmechess.azurewebsites.net/select?square=h1)  |

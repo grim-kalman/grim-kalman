@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 |  **8**  |  _r_  |     |     |     |  _k_  |     |  _n_  |  _r_  |
 |  **7**  |  _p_  |  _p_  |  _p_  |     |     |  _p_  |  _p_  |     |
 |  **6**  |     |     |  _n_  |     |     |     |     |     |
-|  **5**  |  _b_  |     |     |  _p_  |  _p_  |  _b_  |     |     |
+|  **5**  |  _b_  |     |  [_](https://readmechess.azurewebsites.net/play?move=c4c5)  |  [_p_](https://readmechess.azurewebsites.net/play?move=c4d5)  |  _p_  |  _b_  |     |     |
 |  **4**  |     |     |  [**P**](https://readmechess.azurewebsites.net/select?square=c4)  |     |  [**P**](https://readmechess.azurewebsites.net/select?square=e4)  |     |     |  _q_  |
 |  **3**  |  [**P**](https://readmechess.azurewebsites.net/select?square=a3)  |     |     |     |     |     |     |     |
 |  **2**  |     |     |     |  [**P**](https://github.com/grim-kalman)  |     |  [**P**](https://github.com/grim-kalman)  |  _p_  |  [**P**](https://readmechess.azurewebsites.net/select?square=h2)  |

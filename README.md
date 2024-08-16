@@ -11,9 +11,9 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 ## Chess Board
 |     |  a  |  b  |  c  |  d  |  e  |  f  |  g  |  h  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  **8**  |  _r_  |  _n_  |  _b_  |  _q_  |  _k_  |  _b_  |     |  _r_  |
-|  **7**  |  _p_  |  _p_  |  _p_  |  _p_  |     |  _p_  |  _p_  |  _p_  |
-|  **6**  |  [**P**](https://readmechess.azurewebsites.net/select?square=a6)  |     |     |     |     |     |     |     |
+|  **8**  |  _r_  |  _n_  |     |  _q_  |  _k_  |  _b_  |     |  _r_  |
+|  **7**  |  _p_  |  _b_  |  _p_  |  _p_  |     |  _p_  |  _p_  |  _p_  |
+|  **6**  |     |     |     |     |     |     |     |     |
 |  **5**  |     |     |     |     |  _p_  |     |     |     |
 |  **4**  |     |     |  [**P**](https://readmechess.azurewebsites.net/select?square=c4)  |     |     |     |     |     |
 |  **3**  |     |     |     |     |     |     |     |     |

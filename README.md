@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  **8**  |  _r_  |  _n_  |  _b_  |  _q_  |  _k_  |  _b_  |     |  _r_  |
 |  **7**  |  _p_  |  _p_  |  _p_  |  _p_  |     |  _p_  |  _p_  |  _p_  |
-|  **6**  |     |     |     |     |     |     |     |     |
+|  **6**  |  [_](https://readmechess.azurewebsites.net/play?move=a5a6)  |     |     |     |     |     |     |     |
 |  **5**  |  [**P**](https://readmechess.azurewebsites.net/select?square=a5)  |     |     |     |  _p_  |     |     |     |
 |  **4**  |     |     |  [**P**](https://readmechess.azurewebsites.net/select?square=c4)  |     |     |     |     |     |
 |  **3**  |     |     |     |     |     |     |     |     |

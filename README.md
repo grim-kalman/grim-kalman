@@ -17,7 +17,7 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 |  **5**  |     |     |     |     |  _p_  |     |     |     |
 |  **4**  |     |     |     |  [**P**](https://github.com/grim-kalman)  |     |     |     |  _q_  |
 |  **3**  |     |     |     |     |     |  [**P**](https://github.com/grim-kalman)  |     |     |
-|  **2**  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |     |  [**P**](https://github.com/grim-kalman)  |     |  [**P**](https://readmechess.azurewebsites.net/select?square=g2)  |  [**P**](https://github.com/grim-kalman)  |
+|  **2**  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |  [_](https://readmechess.azurewebsites.net/play?move=e1d2)  |  [**P**](https://github.com/grim-kalman)  |     |  [**P**](https://readmechess.azurewebsites.net/select?square=g2)  |  [**P**](https://github.com/grim-kalman)  |
 |  **1**  |  [**R**](https://github.com/grim-kalman)  |  [**N**](https://github.com/grim-kalman)  |  [**B**](https://github.com/grim-kalman)  |  [**Q**](https://github.com/grim-kalman)  |  [**K**](https://readmechess.azurewebsites.net/select?square=e1)  |  [**B**](https://github.com/grim-kalman)  |  [**N**](https://github.com/grim-kalman)  |  [**R**](https://github.com/grim-kalman)  |
 
 [![New Game](https://img.shields.io/badge/New_Game-4CAF50)](https://readmechess.azurewebsites.net/new)

@@ -14,10 +14,10 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 |  **8**  |  _r_  |     |  _b_  |  _q_  |  _k_  |  _b_  |  _n_  |  _r_  |
 |  **7**  |  _p_  |  _p_  |     |  _p_  |  _p_  |  _p_  |  _p_  |  _p_  |
 |  **6**  |     |     |  _n_  |     |     |     |     |     |
-|  **5**  |     |     |     |     |     |     |     |  [_](https://readmechess.azurewebsites.net/play?move=d1h5)  |
-|  **4**  |     |     |     |  [_p_](https://readmechess.azurewebsites.net/play?move=d1d4)  |  [**P**](https://readmechess.azurewebsites.net/select?square=e4)  |  [**P**](https://readmechess.azurewebsites.net/select?square=f4)  |  [_](https://readmechess.azurewebsites.net/play?move=d1g4)  |     |
-|  **3**  |     |     |     |  [_](https://readmechess.azurewebsites.net/play?move=d1d3)  |     |  [_](https://readmechess.azurewebsites.net/play?move=d1f3)  |     |     |
-|  **2**  |  [**P**](https://readmechess.azurewebsites.net/select?square=a2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=b2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=c2)  |  [_](https://readmechess.azurewebsites.net/play?move=d1d2)  |  [_](https://readmechess.azurewebsites.net/play?move=d1e2)  |     |  [**P**](https://readmechess.azurewebsites.net/select?square=g2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=h2)  |
+|  **5**  |     |     |     |     |     |     |     |     |
+|  **4**  |     |     |     |  _p_  |  [**P**](https://readmechess.azurewebsites.net/select?square=e4)  |  [**P**](https://readmechess.azurewebsites.net/select?square=f4)  |     |     |
+|  **3**  |  [_](https://readmechess.azurewebsites.net/play?move=b1a3)  |     |  [_](https://readmechess.azurewebsites.net/play?move=b1c3)  |     |     |     |     |     |
+|  **2**  |  [**P**](https://readmechess.azurewebsites.net/select?square=a2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=b2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=c2)  |  [_](https://readmechess.azurewebsites.net/play?move=b1d2)  |     |     |  [**P**](https://readmechess.azurewebsites.net/select?square=g2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=h2)  |
 |  **1**  |  [**R**](https://github.com/grim-kalman)  |  [**N**](https://readmechess.azurewebsites.net/select?square=b1)  |  [**B**](https://readmechess.azurewebsites.net/select?square=c1)  |  [**Q**](https://readmechess.azurewebsites.net/select?square=d1)  |  [**K**](https://readmechess.azurewebsites.net/select?square=e1)  |  [**B**](https://readmechess.azurewebsites.net/select?square=f1)  |  [**N**](https://readmechess.azurewebsites.net/select?square=g1)  |  [**R**](https://github.com/grim-kalman)  |
 
 [![New Game](https://img.shields.io/badge/New_Game-4CAF50)](https://readmechess.azurewebsites.net/new)

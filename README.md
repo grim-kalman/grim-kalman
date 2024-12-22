@@ -11,11 +11,11 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 ## Chess Board
 |     |  a  |  b  |  c  |  d  |  e  |  f  |  g  |  h  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  **8**  |  _r_  |  _n_  |  _b_  |  _q_  |  _k_  |  _b_  |     |  _r_  |
+|  **8**  |  _r_  |     |  _b_  |  _q_  |  _k_  |  _b_  |     |  _r_  |
 |  **7**  |  _p_  |  _p_  |  _p_  |  _p_  |     |  _p_  |  _p_  |  _p_  |
-|  **6**  |     |     |     |     |     |  _n_  |     |     |
-|  **5**  |  [_](https://readmechess.azurewebsites.net/play?move=a4a5)  |     |     |     |     |     |     |     |
-|  **4**  |  [**P**](https://readmechess.azurewebsites.net/select?square=a4)  |     |     |  _p_  |  [**P**](https://readmechess.azurewebsites.net/select?square=e4)  |     |     |     |
+|  **6**  |     |     |  _n_  |     |     |  _n_  |     |     |
+|  **5**  |  [**P**](https://readmechess.azurewebsites.net/select?square=a5)  |     |     |     |     |     |     |     |
+|  **4**  |     |     |     |  _p_  |  [**P**](https://readmechess.azurewebsites.net/select?square=e4)  |     |     |     |
 |  **3**  |     |     |     |     |     |     |     |     |
 |  **2**  |     |  [**P**](https://readmechess.azurewebsites.net/select?square=b2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=c2)  |     |     |  [**P**](https://readmechess.azurewebsites.net/select?square=f2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=g2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=h2)  |
 |  **1**  |  [**R**](https://readmechess.azurewebsites.net/select?square=a1)  |  [**N**](https://readmechess.azurewebsites.net/select?square=b1)  |  [**B**](https://readmechess.azurewebsites.net/select?square=c1)  |  [**Q**](https://readmechess.azurewebsites.net/select?square=d1)  |  [**K**](https://readmechess.azurewebsites.net/select?square=e1)  |  [**B**](https://readmechess.azurewebsites.net/select?square=f1)  |  [**N**](https://readmechess.azurewebsites.net/select?square=g1)  |  [**R**](https://github.com/grim-kalman)  |

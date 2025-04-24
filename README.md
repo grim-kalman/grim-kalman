@@ -13,8 +13,8 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  **8**  |  _r_  |     |  _b_  |  _q_  |  _k_  |  _b_  |  _n_  |  _r_  |
 |  **7**  |  _p_  |  _p_  |     |  _p_  |  _p_  |  _p_  |     |  _p_  |
-|  **6**  |     |     |  _n_  |     |  [_](https://readmechess.azurewebsites.net/play?move=e5e6)  |     |  _p_  |     |
-|  **5**  |     |     |     |     |  [**P**](https://readmechess.azurewebsites.net/select?square=e5)  |     |     |  [**Q**](https://readmechess.azurewebsites.net/select?square=h5)  |
+|  **6**  |     |     |  _n_  |     |  [**P**](https://readmechess.azurewebsites.net/select?square=e6)  |     |     |     |
+|  **5**  |     |     |     |     |     |     |     |  _p_  |
 |  **4**  |     |     |     |  _p_  |     |     |     |     |
 |  **3**  |     |     |     |     |     |     |     |     |
 |  **2**  |  [**P**](https://readmechess.azurewebsites.net/select?square=a2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=b2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=c2)  |     |     |  [**P**](https://readmechess.azurewebsites.net/select?square=f2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=g2)  |  [**P**](https://readmechess.azurewebsites.net/select?square=h2)  |

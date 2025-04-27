@@ -12,12 +12,12 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 |     |  a  |  b  |  c  |  d  |  e  |  f  |  g  |  h  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  **8**  |  _r_  |     |     |  _q_  |     |  _r_  |  _k_  |     |
-|  **7**  |  _p_  |  _p_  |     |     |  _b_  |  _p_  |  _p_  |  _p_  |
-|  **6**  |     |     |  _n_  |  _p_  |  [_](https://rust-readme-chess.duckdns.org/play?mv=f4e6)  |     |  [_](https://rust-readme-chess.duckdns.org/play?mv=f4g6)  |     |
-|  **5**  |     |     |     |  [_](https://rust-readme-chess.duckdns.org/play?mv=f4d5)  |     |     |     |  [_](https://rust-readme-chess.duckdns.org/play?mv=f4h5)  |
-|  **4**  |     |  _p_  |     |     |  [**P**](https://rust-readme-chess.duckdns.org/select?square=e4)  |  [**N**](https://rust-readme-chess.duckdns.org/select?square=f4)  |  _b_  |     |
-|  **3**  |     |     |     |  [_](https://rust-readme-chess.duckdns.org/play?mv=f4d3)  |     |     |     |  [_](https://rust-readme-chess.duckdns.org/play?mv=f4h3)  |
-|  **2**  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=a2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=b2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=c2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=d2)  |  [_](https://rust-readme-chess.duckdns.org/play?mv=f4e2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=f2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=g2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=h2)  |
+|  **7**  |  _p_  |  _p_  |     |     |  _b_  |     |  _p_  |  _p_  |
+|  **6**  |     |     |  _n_  |  _p_  |  _p_  |     |     |     |
+|  **5**  |     |     |     |     |     |     |     |     |
+|  **4**  |     |  _p_  |     |     |  [**P**](https://rust-readme-chess.duckdns.org/select?square=e4)  |     |  _b_  |     |
+|  **3**  |     |     |     |     |     |     |     |     |
+|  **2**  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=a2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=b2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=c2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=d2)  |     |  [**P**](https://rust-readme-chess.duckdns.org/select?square=f2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=g2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=h2)  |
 |  **1**  |  [**R**](https://github.com/grim-kalman)  |  [**N**](https://rust-readme-chess.duckdns.org/select?square=b1)  |  [**B**](https://github.com/grim-kalman)  |     |  [**R**](https://rust-readme-chess.duckdns.org/select?square=e1)  |  [**K**](https://rust-readme-chess.duckdns.org/select?square=f1)  |     |     |
 
 [![New Game](https://img.shields.io/badge/New_Game-4CAF50)](https://rust-readme-chess.duckdns.org/new)

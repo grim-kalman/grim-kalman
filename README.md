@@ -14,9 +14,9 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 |  **8**  |  _r_  |     |     |  _k_  |     |     |     |  _r_  |
 |  **7**  |  _p_  |  _p_  |  _p_  |  _n_  |     |  _b_  |     |  _p_  |
 |  **6**  |     |     |     |  _b_  |     |  _p_  |     |     |
-|  **5**  |     |     |     |     |     |     |     |     |
-|  **4**  |     |     |  [**P**](https://rust-readme-chess.duckdns.org/select?square=c4)  |     |     |  [_](https://rust-readme-chess.duckdns.org/play?mv=f2f4)  |     |     |
-|  **3**  |     |     |  [**N**](https://rust-readme-chess.duckdns.org/select?square=c3)  |     |     |  [_](https://rust-readme-chess.duckdns.org/play?mv=f2f3)  |     |     |
+|  **5**  |     |     |  [_](https://rust-readme-chess.duckdns.org/play?mv=c4c5)  |     |     |     |     |     |
+|  **4**  |     |     |  [**P**](https://rust-readme-chess.duckdns.org/select?square=c4)  |     |     |     |     |     |
+|  **3**  |     |     |  [**N**](https://rust-readme-chess.duckdns.org/select?square=c3)  |     |     |     |     |     |
 |  **2**  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=a2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=b2)  |  [**P**](https://github.com/grim-kalman)  |     |     |  [**P**](https://rust-readme-chess.duckdns.org/select?square=f2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=g2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=h2)  |
 |  **1**  |  [**R**](https://rust-readme-chess.duckdns.org/select?square=a1)  |     |     |     |     |     |  [**K**](https://rust-readme-chess.duckdns.org/select?square=g1)  |     |
 

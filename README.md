@@ -18,6 +18,6 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 |  **4**  |     |     |  [**P**](https://rust-readme-chess.duckdns.org/select?square=c4)  |     |     |     |     |     |
 |  **3**  |     |     |  [**N**](https://rust-readme-chess.duckdns.org/select?square=c3)  |     |     |     |     |     |
 |  **2**  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=a2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=b2)  |  [**P**](https://github.com/grim-kalman)  |     |     |  [**P**](https://rust-readme-chess.duckdns.org/select?square=f2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=g2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=h2)  |
-|  **1**  |  [**R**](https://rust-readme-chess.duckdns.org/select?square=a1)  |     |     |     |     |     |  [**K**](https://rust-readme-chess.duckdns.org/select?square=g1)  |     |
+|  **1**  |  [**R**](https://rust-readme-chess.duckdns.org/select?square=a1)  |  [_](https://rust-readme-chess.duckdns.org/play?mv=a1b1)  |  [_](https://rust-readme-chess.duckdns.org/play?mv=a1c1)  |  [_](https://rust-readme-chess.duckdns.org/play?mv=a1d1)  |  [_](https://rust-readme-chess.duckdns.org/play?mv=a1e1)  |  [_](https://rust-readme-chess.duckdns.org/play?mv=a1f1)  |  [**K**](https://rust-readme-chess.duckdns.org/select?square=g1)  |     |
 
 [![New Game](https://img.shields.io/badge/New_Game-4CAF50)](https://rust-readme-chess.duckdns.org/new)

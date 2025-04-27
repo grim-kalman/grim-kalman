@@ -12,11 +12,11 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 |     |  a  |  b  |  c  |  d  |  e  |  f  |  g  |  h  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |  **8**  |  _r_  |  _n_  |     |  _k_  |     |  _b_  |     |  _r_  |
-|  **7**  |  _p_  |  _p_  |  _p_  |     |     |  _p_  |  _p_  |  _p_  |
-|  **6**  |     |     |     |     |  _b_  |  _n_  |     |     |
+|  **7**  |  _p_  |  _p_  |  _p_  |  [_](https://rust-readme-chess.duckdns.org/play?mv=e5d7)  |     |  [_](https://rust-readme-chess.duckdns.org/play?mv=e5f7)  |  _p_  |  _p_  |
+|  **6**  |     |     |  [_](https://rust-readme-chess.duckdns.org/play?mv=e5c6)  |     |  _b_  |  _n_  |  [_](https://rust-readme-chess.duckdns.org/play?mv=e5g6)  |     |
 |  **5**  |     |     |     |     |  [**N**](https://rust-readme-chess.duckdns.org/select?square=e5)  |     |     |     |
-|  **4**  |     |     |  [**P**](https://rust-readme-chess.duckdns.org/select?square=c4)  |     |     |     |     |     |
-|  **3**  |     |     |     |     |     |     |     |     |
+|  **4**  |     |     |  [**P**](https://rust-readme-chess.duckdns.org/select?square=c4)  |     |     |     |  [_](https://rust-readme-chess.duckdns.org/play?mv=e5g4)  |     |
+|  **3**  |     |     |     |  [_](https://rust-readme-chess.duckdns.org/play?mv=e5d3)  |     |  [_](https://rust-readme-chess.duckdns.org/play?mv=e5f3)  |     |     |
 |  **2**  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=a2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=b2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=c2)  |     |     |  [**P**](https://rust-readme-chess.duckdns.org/select?square=f2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=g2)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=h2)  |
 |  **1**  |  [**R**](https://github.com/grim-kalman)  |  [**N**](https://rust-readme-chess.duckdns.org/select?square=b1)  |  [**B**](https://rust-readme-chess.duckdns.org/select?square=c1)  |     |     |     |  [**K**](https://rust-readme-chess.duckdns.org/select?square=g1)  |     |
 

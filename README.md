@@ -14,10 +14,10 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 |  **8**  |  _r_  |  _n_  |     |     |  _k_  |     |     |  _r_  |
 |  **7**  |  _p_  |  _p_  |  _p_  |     |     |  _p_  |  _p_  |  _p_  |
 |  **6**  |     |     |     |     |     |     |     |     |
-|  **5**  |     |     |  _b_  |     |  _q_  |     |     |     |
+|  **5**  |     |     |  _b_  |     |     |     |     |  _q_  |
 |  **4**  |     |     |     |     |     |     |  _b_  |     |
-|  **3**  |     |     |     |     |     |  [**P**](https://github.com/grim-kalman)  |  [_](https://rust-readme-chess.duckdns.org/play?mv=h2g3)  |     |
-|  **2**  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |     |     |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=h2)  |
+|  **3**  |     |     |     |     |     |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |     |
+|  **2**  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |     |     |  [**P**](https://github.com/grim-kalman)  |     |
 |  **1**  |  [**R**](https://github.com/grim-kalman)  |  [**N**](https://github.com/grim-kalman)  |  [**B**](https://github.com/grim-kalman)  |     |     |  [**R**](https://github.com/grim-kalman)  |     |  [**K**](https://github.com/grim-kalman)  |
 
 [![New Game](https://img.shields.io/badge/New_Game-4CAF50)](https://rust-readme-chess.duckdns.org/new)

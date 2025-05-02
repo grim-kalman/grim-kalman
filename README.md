@@ -16,7 +16,7 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 |  **6**  |     |     |     |     |     |     |     |     |
 |  **5**  |     |     |  _b_  |     |  _q_  |     |     |     |
 |  **4**  |     |     |     |     |     |     |  _b_  |     |
-|  **3**  |     |     |     |     |     |  [**P**](https://github.com/grim-kalman)  |  _n_  |     |
+|  **3**  |     |     |     |     |     |  [**P**](https://github.com/grim-kalman)  |  [_](https://rust-readme-chess.duckdns.org/play?mv=h2g3)  |     |
 |  **2**  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |     |     |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://rust-readme-chess.duckdns.org/select?square=h2)  |
 |  **1**  |  [**R**](https://github.com/grim-kalman)  |  [**N**](https://github.com/grim-kalman)  |  [**B**](https://github.com/grim-kalman)  |     |     |  [**R**](https://github.com/grim-kalman)  |     |  [**K**](https://github.com/grim-kalman)  |
 

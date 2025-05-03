@@ -1,6 +1,6 @@
 # Readme Chess
 
-Welcome to my GitHub profile! Here, you can play a game of chess with me, using my [readme-chess](https://github.com/grim-kalman/readme-chess) application.
+Welcome to my GitHub profile! Here, you can play a game of chess with me, using my [readme-chess](https://github.com/grim-kalman/rust-readme-chess) application.
 
 ## How to Play
 

@@ -14,10 +14,10 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 |  **8**  |  _r_  |     |  _b_  |  _q_  |  _k_  |  _b_  |  _n_  |  _r_  |
 |  **7**  |  _p_  |  _p_  |  _p_  |  _p_  |     |  _p_  |  _p_  |  _p_  |
 |  **6**  |     |     |  _n_  |     |     |     |     |     |
-|  **5**  |     |     |     |     |     |     |     |     |
-|  **4**  |     |     |     |  _p_  |  [**P**](https://rust-readme-chess.fly.dev/select?square=e4)  |     |     |     |
+|  **5**  |     |     |     |     |  [_](https://rust-readme-chess.fly.dev/play?mv=f3e5)  |     |  [_](https://rust-readme-chess.fly.dev/play?mv=f3g5)  |     |
+|  **4**  |     |     |     |  [_](https://rust-readme-chess.fly.dev/play?mv=f3d4)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=e4)  |     |     |  [_](https://rust-readme-chess.fly.dev/play?mv=f3h4)  |
 |  **3**  |     |     |     |     |     |  [**N**](https://rust-readme-chess.fly.dev/select?square=f3)  |     |     |
-|  **2**  |  [**P**](https://rust-readme-chess.fly.dev/select?square=a2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=b2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=c2)  |     |     |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=g2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=h2)  |
-|  **1**  |  [**R**](https://github.com/grim-kalman)  |  [**N**](https://rust-readme-chess.fly.dev/select?square=b1)  |  [**B**](https://rust-readme-chess.fly.dev/select?square=c1)  |  [**Q**](https://rust-readme-chess.fly.dev/select?square=d1)  |  [**K**](https://rust-readme-chess.fly.dev/select?square=e1)  |  [**B**](https://rust-readme-chess.fly.dev/select?square=f1)  |     |  [**R**](https://rust-readme-chess.fly.dev/select?square=h1)  |
+|  **2**  |  [**P**](https://rust-readme-chess.fly.dev/select?square=a2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=b2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=c2)  |  [_](https://rust-readme-chess.fly.dev/play?mv=f3d2)  |     |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=g2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=h2)  |
+|  **1**  |  [**R**](https://github.com/grim-kalman)  |  [**N**](https://rust-readme-chess.fly.dev/select?square=b1)  |  [**B**](https://rust-readme-chess.fly.dev/select?square=c1)  |  [**Q**](https://rust-readme-chess.fly.dev/select?square=d1)  |  [**K**](https://rust-readme-chess.fly.dev/select?square=e1)  |  [**B**](https://rust-readme-chess.fly.dev/select?square=f1)  |  [_](https://rust-readme-chess.fly.dev/play?mv=f3g1)  |  [**R**](https://rust-readme-chess.fly.dev/select?square=h1)  |
 
 [![New Game](https://img.shields.io/badge/New_Game-4CAF50)](https://rust-readme-chess.fly.dev/new)

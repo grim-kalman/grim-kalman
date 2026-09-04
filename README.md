@@ -15,8 +15,8 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 |  **7**  |  _p_  |  _p_  |  _p_  |     |     |  _p_  |  _p_  |  _p_  |
 |  **6**  |     |     |     |     |     |     |     |     |
 |  **5**  |     |     |     |     |  _n_  |     |     |     |
-|  **4**  |     |     |     |     |  _q_  |     |     |     |
-|  **3**  |     |     |     |     |     |     |     |     |
+|  **4**  |  [_](https://rust-readme-chess.fly.dev/play?mv=a2a4)  |     |     |     |  _q_  |     |     |     |
+|  **3**  |  [_](https://rust-readme-chess.fly.dev/play?mv=a2a3)  |     |     |     |     |     |     |     |
 |  **2**  |  [**P**](https://rust-readme-chess.fly.dev/select?square=a2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=b2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=c2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=d2)  |     |  [**P**](https://rust-readme-chess.fly.dev/select?square=f2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=g2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=h2)  |
 |  **1**  |  [**R**](https://rust-readme-chess.fly.dev/select?square=a1)  |     |  [**B**](https://github.com/grim-kalman)  |     |     |     |  [**K**](https://rust-readme-chess.fly.dev/select?square=g1)  |     |
 

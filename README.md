@@ -16,8 +16,8 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 |  **6**  |     |     |  _n_  |     |     |  _n_  |     |     |
 |  **5**  |     |     |     |     |  _p_  |     |     |     |
 |  **4**  |     |     |  [**B**](https://rust-readme-chess.fly.dev/select?square=c4)  |     |  [**P**](https://github.com/grim-kalman)  |     |     |     |
-|  **3**  |     |     |  [**N**](https://rust-readme-chess.fly.dev/select?square=c3)  |     |     |     |     |     |
-|  **2**  |  [**P**](https://rust-readme-chess.fly.dev/select?square=a2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=b2)  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=d2)  |     |  [**P**](https://rust-readme-chess.fly.dev/select?square=f2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=g2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=h2)  |
+|  **3**  |     |     |  [**N**](https://rust-readme-chess.fly.dev/select?square=c3)  |     |     |  [_](https://rust-readme-chess.fly.dev/play?mv=g1f3)  |     |  [_](https://rust-readme-chess.fly.dev/play?mv=g1h3)  |
+|  **2**  |  [**P**](https://rust-readme-chess.fly.dev/select?square=a2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=b2)  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=d2)  |  [_](https://rust-readme-chess.fly.dev/play?mv=g1e2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=f2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=g2)  |  [**P**](https://rust-readme-chess.fly.dev/select?square=h2)  |
 |  **1**  |  [**R**](https://rust-readme-chess.fly.dev/select?square=a1)  |     |  [**B**](https://github.com/grim-kalman)  |  [**Q**](https://rust-readme-chess.fly.dev/select?square=d1)  |  [**K**](https://rust-readme-chess.fly.dev/select?square=e1)  |     |  [**N**](https://rust-readme-chess.fly.dev/select?square=g1)  |  [**R**](https://github.com/grim-kalman)  |
 
 [![New Game](https://img.shields.io/badge/New_Game-4CAF50)](https://rust-readme-chess.fly.dev/new)

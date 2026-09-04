@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Here, you can play a game of chess with me, using 
 |  **4**  |     |     |     |     |     |     |     |     |
 |  **3**  |  [**P**](https://github.com/grim-kalman)  |     |     |     |     |     |     |     |
 |  **2**  |     |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |     |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |  [**P**](https://github.com/grim-kalman)  |
-|  **1**  |  [**R**](https://github.com/grim-kalman)  |     |  [**B**](https://github.com/grim-kalman)  |     |  _q_  |     |  [**K**](https://github.com/grim-kalman)  |     |
+|  **1**  |  [**R**](https://github.com/grim-kalman)  |     |  [**B**](https://rust-readme-chess.fly.dev/select?square=c1)  |     |  _q_  |     |  [**K**](https://github.com/grim-kalman)  |     |
 
 **Checkmate — I win this one.**
 
